@@ -79,3 +79,6 @@ footer {
    padding: 10px 20px;
    border-color: #101010;
 }
+.email-pref {
+   list-style: none;
+}
