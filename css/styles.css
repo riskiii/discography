@@ -1,0 +1,76 @@
+body {
+   background-image: url(/images/congruent_outline.png);
+   color: white;
+   text-shadow: 2px 2px 2px #000;
+   font-family: Merriweather, Times, "Times New Roman", serif;
+}
+section h2, section li {
+   color: white;
+}
+h1, h2, h3, h4, h5, h6 {
+   font-family: Abel, Helvetica, Arial, sans-serif;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+   font-family: Abel, Helvetica, Arial, sans-serif;
+   font-size: 18px;
+   color: #aaa;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+   color: #fff;
+}
+.navbar-inverse {
+   background-color: rgba(0,0,0,.4);
+}
+#band-members, #email-newsletter, #website-credits {
+   background-color: rgba(0,0,0,.4);
+   padding: 10px 20px;
+   border-color: #101010;
+}
+section li {
+   font-family: Merriweather, Times, "Times New Roman", serif;
+}
+section li .track-length {
+   float: right;
+   margin-right: 30px;
+}
+section img {
+   border: 1px solid black;
+   -webkit-box-shadow: 5px 5px 5px black;
+   -moz-box-shadow: 5px 5px 5px black;
+   box-shadow: 5px 5px 5px black;
+}
+input, textarea {
+   -webkit-box-shadow: 5px 5px 5px black !important;
+   -moz-box-shadow: 5px 5px 5px black !important;
+   box-shadow: 5px 5px 5px black !important;
+}
+.col-height {
+   height: 50em;
+}
+.band-members {
+   float: left;
+   margin-right: 20px;
+   margin-bottom: 20px;
+}
+
+.built-by {
+   float: left;
+}
+.copyright {
+   float: right;
+}
+footer {
+   text-align: center;
+   background-color: rgba(0,0,0,.4);
+   padding: 10px 20px;
+   border-color: #101010;
+}
+
+.btn-default {
+   color: #fff;
+   box-shadow: 5px 5px 5px black !important;
+   background-color: rgba(35,82,124,.4);
+   padding: 10px 20px;
+   border-color: #101010;
+}
