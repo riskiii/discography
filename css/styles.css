@@ -10,7 +10,12 @@ section h2, section li {
 h1, h2, h3, h4, h5, h6 {
    font-family: Abel, Helvetica, Arial, sans-serif;
 }
-
+.logo {
+   float: left;
+}
+.navbar-nav {
+   margin: 85px 0 0;
+}
 .navbar-inverse .navbar-nav>li>a {
    font-family: Abel, Helvetica, Arial, sans-serif;
    font-size: 18px;
