@@ -34,11 +34,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 section li {
    font-family: Merriweather, Times, "Times New Roman", serif;
+   font-size: 12.6px;
 }
 section li .track-length {
    float: right;
-   margin-right: 30px;
+   margin-right: 10px;
 }
+section ol {
+   padding-left: 30px;
+}
+
 section img {
    border: 1px solid black;
    -webkit-box-shadow: 5px 5px 5px black;
@@ -51,7 +56,7 @@ input, textarea {
    box-shadow: 5px 5px 5px black !important;
 }
 .col-height {
-   height: 50em;
+   height: 55em;
 }
 .band-members {
    float: left;
@@ -81,4 +86,12 @@ footer {
 }
 .email-pref {
    list-style: none;
+}
+
+ol li:nth-child(odd) {
+   background: rgba(0,0,0,.4);
+}
+
+ol li {
+   padding: .3em 0 .3em .4em;
 }
