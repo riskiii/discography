@@ -1,0 +1,145 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2353" measuredH="929" mockupW="2253" mockupH="919">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1053" y="10" w="1300" h="900" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Discography%0Ahttp%3A//discography.iWebArchitect.me</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::iPad" x="413" y="13" w="-1" h="-1" measuredW="616" measuredH="916" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::iPhone" x="100" y="251" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Canvas" x="1053" y="856" w="1300" h="30" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="1067" y="861" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Designed%20by%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="1624" y="861" w="-1" h="-1" measuredW="119" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Phone%20405.717.7799</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="2244" y="861" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Copyright%202015</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Link" x="1148" y="862" w="-1" h="-1" measuredW="109" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iWebArchitect.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Canvas" x="447" y="809" w="550" h="30" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="460" y="814" w="82" h="-1" measuredW="79" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Designed%20by%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="688" y="813" w="125" h="-1" measuredW="119" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Phone%20405.717.7799</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="883" y="814" w="99" h="-1" measuredW="90" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Copyright%202015</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Link" x="538" y="815" w="-1" h="-1" measuredW="109" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iWebArchitect.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::MenuBar" x="1053" y="86" w="1300" h="96" measuredW="707" measuredH="29" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2CDiscography%2C%20Band%20Members%2C%20Newsletter%20/%20Contact%20Us%2C%20Website%20Credits</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Canvas" x="1061" y="98" w="189" h="73" measuredW="100" measuredH="70" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="1074" y="219" w="1258" h="59" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::SubTitle" x="1093" y="235" w="-1" h="-1" measuredW="131" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Discography</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="1139" y="124" w="49" h="-1" measuredW="29" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Canvas" x="467" y="239" w="506" h="59" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Canvas" x="141" y="347" w="201" h="82" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Canvas" x="156" y="355" w="171" h="67" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Canvas" x="126" y="714" w="230" h="30" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="145" y="719" w="82" h="-1" measuredW="79" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Designed%20by%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Link" x="234" y="720" w="-1" h="-1" measuredW="109" measuredH="19" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iWebArchitect.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Canvas" x="141" y="495" w="201" h="59" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1"/>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::ScratchOut" x="470" y="316" w="-1" h="-1" measuredW="205" measuredH="107" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::ScratchOut" x="762" y="321" w="-1" h="-1" measuredW="205" measuredH="107" zOrder="26" locked="false" isInGroup="-1"/>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::ScratchOut" x="473" y="464" w="-1" h="-1" measuredW="205" measuredH="107" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::ScratchOut" x="762" y="464" w="-1" h="-1" measuredW="205" measuredH="107" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::ScratchOut" x="473" y="598" w="-1" h="-1" measuredW="205" measuredH="107" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::ScratchOut" x="762" y="608" w="-1" h="-1" measuredW="205" measuredH="107" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1081" y="298" w="235" h="107" measuredW="205" measuredH="107" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1081" y="457" w="235" h="107" measuredW="205" measuredH="107" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1081" y="618" w="235" h="107" measuredW="205" measuredH="107" zOrder="33" locked="false" isInGroup="-1"/>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1414" y="298" w="241" h="107" measuredW="205" measuredH="107" zOrder="34" locked="false" isInGroup="-1"/>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1414" y="457" w="241" h="107" measuredW="205" measuredH="107" zOrder="35" locked="false" isInGroup="-1"/>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1414" y="618" w="241" h="107" measuredW="205" measuredH="107" zOrder="36" locked="false" isInGroup="-1"/>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1750" y="298" w="233" h="107" measuredW="205" measuredH="107" zOrder="37" locked="false" isInGroup="-1"/>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1750" y="457" w="233" h="107" measuredW="205" measuredH="107" zOrder="38" locked="false" isInGroup="-1"/>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::ScratchOut" x="1750" y="618" w="233" h="107" measuredW="205" measuredH="107" zOrder="39" locked="false" isInGroup="-1"/>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::ScratchOut" x="2095" y="309" w="233" h="107" measuredW="205" measuredH="107" zOrder="40" locked="false" isInGroup="-1"/>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::ScratchOut" x="2095" y="457" w="233" h="107" measuredW="205" measuredH="107" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::ScratchOut" x="2095" y="618" w="233" h="107" measuredW="205" measuredH="107" zOrder="42" locked="false" isInGroup="-1"/>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::ScratchOut" x="156" y="579" w="171" h="107" measuredW="205" measuredH="107" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::SubTitle" x="482" y="255" w="-1" h="-1" measuredW="131" measuredH="27" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Discography</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::SubTitle" x="156" y="511" w="-1" h="-1" measuredW="131" measuredH="27" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Discography</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="143" y="426" w="199" h="54" measuredW="100" measuredH="70" zOrder="46" locked="false" isInGroup="-1"/>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="156" y="443" w="38" h="-1" measuredW="32" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="538" y="167" w="49" h="-1" measuredW="29" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Label" x="209" y="378" w="49" h="-1" measuredW="29" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::MenuBar" x="447" y="126" w="550" h="96" measuredW="653" measuredH="29" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2C%2C%2C%2C%2C%2C%2C%2C%2CDiscography%2C%20Band%20Members%2C%20Newsletter%20/%20Contact%20Us%2C%20Website%20Credits</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Canvas" x="467" y="138" w="148" h="73" measuredW="100" measuredH="70" zOrder="51" locked="false" isInGroup="-1"/>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="517" y="167" w="49" h="-1" measuredW="29" measuredH="21" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
